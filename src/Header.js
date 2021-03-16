@@ -16,7 +16,10 @@ function Header() {
   return (
     <div className="header">
       <div className="header__left">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png" />
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_(2019).png"
+          alt=""
+        />
 
         <div className="header__input">
           <SearchIcon />
