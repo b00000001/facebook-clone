@@ -7,7 +7,7 @@ import Feed from "./Feed";
 function App() {
   return (
     // BEM naming convention
-    <div className="App">
+    <div className="app">
       <Header />
       <div className="app__body">
         <Sidebar />
